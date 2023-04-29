@@ -1,2 +1,3 @@
 # An-lise-Merc-games
-Um projeto de estudo pratico para meu aprendizado.
+Um projeto de estudo pratico para meu aprendizado
+# Analis Mercado Games
